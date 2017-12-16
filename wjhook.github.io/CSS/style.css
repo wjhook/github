@@ -1,0 +1,56 @@
+.nav-pills {
+    font-family: Bungee;
+  font-size: 18px;
+  background-color: lightgrey;
+  margin-bottom: 10%;
+}
+
+body {
+    font-family: Bungee;
+    background-color: darkgrey;
+    color: white;
+}
+
+.btn-default {
+  background-color:black;
+  border-color: grey;
+  color: #337ab7;
+}
+
+
+.pageOne {
+    background:url("https://images.unsplash.com/photo-1468956398224-6d6f66e22c35?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=2ac1e19ac2e272fac58c0bb5430c4399");
+  background-size:cover;
+  height: 750px;
+
+}
+
+.pageTwo {
+  background:url("https://images.unsplash.com/photo-1472818598099-245fc058b98d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=49c5de539bedaafac5c390373b3c314f");
+  background-size:cover;
+  height: 750px;
+  padding-top: 5%;
+}
+p {
+    font-size: 2.2em;
+}
+.me{
+   height: 400px;
+
+}
+
+h1 {
+    font-size: 5.0em;
+}
+
+.block {
+  background-color: black;
+  opacity: .6;
+  padding: 10px;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius: 25%;
+
+
+}
